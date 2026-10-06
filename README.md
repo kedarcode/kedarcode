@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0b0b1a,50:4c1d95,100:06b6d4&text=Kedar%20Shelar&fontColor=ffffff&fontSize=68&fontAlignY=36&desc=I%20build%20AI%20that%20does%20the%20work&descSize=20&descAlignY=57&animation=fadeIn" width="100%" alt="Kedar Shelar" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0b0b1a,50:4c1d95,100:06b6d4&text=Kedar%20Shelar&fontColor=ffffff&fontSize=68&fontAlignY=36&desc=I%20build%20AI%20that%20does%20the%20work&descSize=20&descAlignY=57" width="100%" alt="Kedar Shelar" />
 </p>
 
 <p align="center">
@@ -81,7 +81,7 @@ Right now I'm building **[Meldit](https://meldit.ai)**, AI automation for busine
 ### ▸ Shipping log
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kedarcode&theme=tokyonight&hide_border=true&background=0b0b1a&ring=7C3AED&fire=06B6D4&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8b949e" alt="Contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=kedarcode&theme=tokyonight&hide_border=true&background=0b0b1a&ring=7C3AED&fire=06B6D4&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8b949e&disable_animations=true" alt="Contribution streak" />
 </p>
 
 <p align="center">
