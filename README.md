@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  <a href="https://kedarshelar.me"><img src="https://img.shields.io/badge/portfolio-kedarshelar.me-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0b0b1a" alt="Portfolio" /></a>
   <a href="https://meldit.ai"><img src="https://img.shields.io/badge/meldit.ai-launching%20soon-7C3AED?style=for-the-badge&labelColor=0b0b1a" alt="meldit.ai" /></a>
   <a href="mailto:kedar@meldit.ai"><img src="https://img.shields.io/badge/email-kedar%40meldit.ai-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0b1a" alt="Email" /></a>
 </p>
@@ -96,6 +97,7 @@ Tell me about it. If it's repetitive, there's a good chance I can automate it.
 
 <p>
   <a href="mailto:kedar@meldit.ai"><img src="https://img.shields.io/badge/Let's%20talk-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's talk" /></a>
+  <a href="https://kedarshelar.me"><img src="https://img.shields.io/badge/See%20my%20work-0b0b1a?style=for-the-badge&logo=googlechrome&logoColor=A78BFA" alt="See my work" /></a>
   <a href="https://meldit.ai"><img src="https://img.shields.io/badge/meldit.ai-0b0b1a?style=for-the-badge&logoColor=white" alt="meldit.ai" /></a>
 </p>
 
