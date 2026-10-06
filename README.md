@@ -54,9 +54,9 @@ Right now I'm building **[Meldit](https://meldit.ai)**, AI automation for busine
 
 | Project | What it does | Stack |
 | :-- | :-- | :-- |
-| [**compareProfile**](https://github.com/kedarcode/genai) | Pulls the latest Instagram posts for any profile, stores them, and renders a custom gallery | Django · Postgres · HikerAPI |
+| [**genai**](https://github.com/kedarcode/genai) | Configurable AI agent pipelines that scrape Instagram profiles and analyze every post, swappable across OpenAI, Claude, Gemini and Groq | Django · pydantic-ai · Postgres |
+| [**elasticfastAPI**](https://github.com/kedarcode/elasticfastAPI) | Semantic search: OpenAI embeddings + Elasticsearch kNN, with NLP query validation | FastAPI · Elasticsearch · spaCy |
 | [**url-shortener**](https://github.com/kedarcode/url-shortner-kedar) | Short links with rate limiting and expiry, behind an NGINX reverse proxy | FastAPI · Redis · NGINX · Docker |
-| [**elasticfastAPI**](https://github.com/kedarcode/elasticfastAPI) | Search API on top of Elasticsearch | FastAPI · Elasticsearch |
 | [**Socialmediabot**](https://github.com/kedarcode/Socialmediabot) | Finds content, runs object detection, edits and reposts it, and collects stats | Python · Computer vision |
 | [**IMDBScraper**](https://github.com/kedarcode/IMDBScraper) | Desktop app that scrapes IMDb by custom query | Python · tkinter |
 
@@ -71,6 +71,7 @@ Right now I'm building **[Meldit](https://meldit.ai)**, AI automation for busine
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-0b0b1a?style=for-the-badge&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Claude-0b0b1a?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude" />
+  <img src="https://img.shields.io/badge/pydantic--ai-0b0b1a?style=for-the-badge&logo=pydantic&logoColor=E92063" alt="pydantic-ai" />
   <img src="https://img.shields.io/badge/LangChain-0b0b1a?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/n8n-0b0b1a?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n" />
 </p>
