@@ -81,10 +81,6 @@ Right now I'm building **[Meldit](https://meldit.ai)**, AI automation for busine
 ### ▸ Shipping log
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kedarcode&theme=tokyonight&hide_border=true&background=0b0b1a&ring=7C3AED&fire=06B6D4&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8b949e&disable_animations=true" alt="Contribution streak" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kedarcode/kedarcode/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kedarcode/kedarcode/output/snake-light.svg" />
